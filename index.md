@@ -3,11 +3,9 @@
 1. &lt;abbr&gt;：用來標示簡稱或縮寫，並設置 title 為完整描述。  
 （ 例如：<abbr title="Internationalization">I18N</abbr> ）  
 
-2. &lt;sup&gt;：用來標示上標文本。  
-（ 例如： X<sup>2=>上標文字</sup> ）  
+2. &lt;sup&gt;：用來標示上標文本。（ 例如： X<sup>2=>上標文字</sup> ）  
 
-3. &lt;sub&gt;：用來標示下標文本。  
-（ 例如： X<sub>2=>下標文字</sub> ）  
+3. &lt;sub&gt;：用來標示下標文本。（ 例如： X<sub>2=>下標文字</sub> ）  
 
 4. &lt;canvas&gt;：標示放置圖形的容器，通過脚本（例如：JavaScript ）來繪製圖。  
 
