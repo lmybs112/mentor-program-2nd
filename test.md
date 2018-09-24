@@ -1,7 +1,6 @@
 ## 請找出三個課程裡面沒提到的 HTML 標籤並一一說明作用。
 
-1. &lt;abbr&gt;：用來標示簡稱或縮寫，並設置 title 為完整描述。  
-（ 例如：<abbr title="Internationalization">I18N</abbr> ）  
+1. &lt;abbr&gt;：用來標示簡稱或縮寫，並設置 title 為完整描述。（ 例如：<abbr title="Internationalization">I18N</abbr> ）  
 
 2. &lt;sup&gt;：用來標示上標文本。（ 例如： X<sup>2=>上標文字</sup> ）  
 
@@ -15,11 +14,14 @@
 
 ## 請問什麼是盒模型（box modal）
 
-- 盒模型由內到外包含元素的内容（ content ）、内邊距（ padding ）、邊框（ border ）、外邊距（ margin ）幾個元素，  
+- 盒模型由內到外包含元素的内容（ content ）、内邊距（ padding ）、  
+邊框（ border ）、外邊距（ margin ）幾個元素，  
   透過 box-sizing 又可以分為標準模型（ content-box ）和 IE 模型（ border-box ）。
 
-  1. 標準模型（ content-box ）:盒子的寬度只包含 content 寬度，而總寬度 = 左右 margin + 左右 border + 左右 padding + width 。
-  2. IE 模型（ border-box ）：盒子的寬度 = 左右 border + 左右 padding + content 的寬度，而總寬度 = 左右 margin + width 。
+  1. 標準模型（ content-box ）:盒子的寬度只包含 content 寬度，  
+  而總寬度 = 左右 margin + 左右 border + 左右 padding + width 。
+  2. IE 模型（ border-box ）：盒子的寬度 = 左右 border + 左右 padding + content 的寬度，  
+  而總寬度 = 左右 margin + width 。
 
 - 參考連結 [兩種 Box Model (盒模型)的理解、區別以及注意事項](https://www.jianshu.com/p/2e787c6d8ede)
 
