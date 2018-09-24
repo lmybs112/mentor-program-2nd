@@ -4,7 +4,7 @@
 
   2. &lt;sup&gt; / &lt;sub&gt;：用來標示上下標文本。（ 例如： X<sup>2=>上標</sup> / X<sub>2=>下標</sub> ）  
 
-  3. &lt;canvas&gt;：標示放置圖形的容器，通過脚本（例如：JavaScript ）來繪製圖。  
+  3. &lt;canvas&gt;：標示放置圖形的容器，通過腳本（例如：JavaScript ）來繪製圖。  
 
 - 參考連結 [HTML5 標籤列表](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
 
