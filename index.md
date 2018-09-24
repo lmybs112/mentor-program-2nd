@@ -12,7 +12,6 @@
 4. &lt;canvas&gt;：標示放置圖形的容器，通過脚本（例如：JavaScript ）來繪製圖。  
 
 5. &lt;progress&gt;：用來標示進度，可設置 max（進度總長）、value（目前進度位置）。  
-（ 例如：<progress value="60" max="100"></progress> ）
 
 - 參考連結 [HTML5 標籤列表](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
 
@@ -40,7 +39,7 @@
 ## 請問 position: static, relative, absolute 跟 fixed 的差別是什麼？
 
 1. static：預設定位，無法設置 top、bottom、left、right改變位置。
-2. relative：和 static 位置相同，但是可以設置 top、bottom、left、right 改變位置。
+2. relative：和 static 位置相同，但是可以設置 top、bottom、left、right 改變位置。
 3. absolute：以不是 static 的父元素為定位，但若上層所有的父元素都是預設的 static 定位，就會以 body 作為定位。
 4. fixed：以瀏覽器視窗定位，固定在同一個位置，不會隨著滾動捲軸滾動而移動。
 
