@@ -19,7 +19,8 @@
   透過 box-sizing 又可以分為標準模型（ content-box ）和 IE 模型（ border-box ）。
 
   1. 標準模型（ content-box ）:盒子的寬度只包含 content 寬度，  
-  而總寬度 = 左右 margin + 左右 border + 左右 padding + width 。
+  而總寬度 = 左右 margin + 左右 border + 左右 padding + width 。  
+  
   2. IE 模型（ border-box ）：盒子的寬度 = 左右 border + 左右 padding + content 的寬度，  
   而總寬度 = 左右 margin + width 。
 
