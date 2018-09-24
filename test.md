@@ -1,6 +1,6 @@
 ## 請找出三個課程裡面沒提到的 HTML 標籤並一一說明作用。
 
-  1. &lt;abbr&gt;：用來標示簡稱或縮寫，並設置 title 為完整描述。（ 例如：<abbr title="Internationalization">I18N</abbr> ）  
+  1. &lt;abbr&gt;：用來標示簡稱或縮寫，並設置 title 為完整描述。
 
   2. &lt;sup&gt; / &lt;sub&gt;：用來標示上下標文本。（ 例如： X<sup>2=>上標</sup> / X<sub>2=>下標</sub> ）  
 
