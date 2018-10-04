@@ -18,15 +18,6 @@
 2. 前端：知道前端原理，HTML、CSS、JavaScript，知道 Ajax 以及如何與後端串接
 3. 資安：基本資安概念，SQL Injection、XSS、CSRF
 
-## 課程規則
-
-1.根據課程規則，必須要報告每日進度，其實主要不是給我看的，是給你們自己看的，可以順便整理一下自己昨天學過哪些東西以及今天預計要學哪些東西，詳細規則請參考：[程式導師實驗計畫第二期每日任務](https://github.com/Lidemy/mentor-daily-report)。
- 
-2.有任何意見回饋或是課程相關問題，都可以直接私訊導師（@huli）討論，但比較建議的方法是去[ Lidemy 討論區](https://github.com/Lidemy/forum)開一個 Issue 來問。
-
-3.請在 GitHub 開一個 repository，把 Issue 頁面當作 blog 紀錄心得，順便練習 Markdown 語法，可參考[簡單範例](https://github.com/Lidemy/blog-example)或是[第一期學生的心得記錄](https://github.com/Lidemy/mentor-program-xu3cl40122/issues)。
-
-
 ## 課程進行方式
 
 每週一、四晚上九點進行直播教學，其餘時間可利用 slack 群組隨時發問。每次教學時間約為一小時至兩小時。
@@ -56,7 +47,7 @@ Mindset 建立：
 
 學會如何交作業。
 
-[HW1 作業連結](/homeworks/week1)
+[HW1 作業連結](http://www.lmybs112.ml/homeworks%20/week1/)
 
 #### 目標：
 
@@ -77,7 +68,7 @@ Mindset 建立：
 
 也會教大家寫簡單的 unit test，並且自己寫 test case 檢驗自己的函式。
 
-[HW2 作業連結](/homeworks/week2)
+[HW2 作業連結](http://www.lmybs112.ml/homeworks%20/week2/)
 
 #### 目標：
 
@@ -97,7 +88,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 也可以先看一下這兩篇文章（很多地方你會看不懂，但沒關係）先培養一下對前端的感覺，等幾週過後當我們學得越來越多，再看一次會有完全不同的感受：[零基礎的小明要如何成為前端工程師？](https://medium.com/hulis-blog/frontend-engineer-guide-297821512f4e)、[跟著小明一起搞懂技術名詞：MVC、SPA 與 SSR](https://medium.com/@hulitw/introduction-mvc-spa-and-ssr-545c941669e9)
 
-[HW3 作業連結](/homeworks/week3)
+[HW3 作業連結](http://www.lmybs112.ml/homeworks%20/week3/)
 
 #### 目標：
 
@@ -119,7 +110,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 延伸閱讀：[輕鬆理解 Ajax 與跨來源請求](https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/)、[DOM 的事件傳遞機制：捕獲與冒泡](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
 
 
-[HW4 作業連結](/homeworks/week4)
+[HW4 作業連結](http://www.lmybs112.ml/homeworks%20/week4/)
 
 #### 目標：
 
@@ -139,7 +130,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 這週的課程會講解 PHP 基本觀念、語法，並且教大家安裝設定 MySQL，寫出簡單的 CRUD 應用。
 
-[HW5 作業連結](/homeworks/week5)
+[HW5 作業連結](http://www.lmybs112.ml/homeworks%20/week5/)
 
 #### 目標：
 
@@ -156,7 +147,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 延伸閱讀：[讓我們來談談 CSRF](https://blog.techbridge.cc/2017/02/25/csrf-introduction/)
 
 
-[HW6 作業連結](/homeworks/week6)
+[HW6 作業連結](http://www.lmybs112.ml/homeworks%20/week6/)
 
 #### 目標：
 
@@ -175,7 +166,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 版面的部分則利用 Bootstrap 搭配 Bootswatch 讓介面變得美觀。利用網格系統實作 RWD。
 
-[HW7 作業連結](/homeworks/week7)
+[HW7 作業連結](http://www.lmybs112.ml/homeworks%20/week7/)
 
 #### 目標：
 
@@ -194,7 +185,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 在這個章節也會讓大家理解後端基本架構（NAT、Load balancer、DB replication 等等）
 
-[HW8 作業連結](/homeworks/week8)
+[HW8 作業連結](http://www.lmybs112.ml/homeworks%20/week8/)
 
 #### 目標：
 
@@ -216,7 +207,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 除此之外，這週也會介紹到基本的資料結構 stack 與 queue，JavaScript 的 Event Loop 機制以及 Cache 相關的說明。
 
-[HW9 作業連結](/homeworks/week9)
+[HW9 作業連結](http://www.lmybs112.ml/homeworks%20/week9/)
 
 #### 目標：
 
@@ -239,7 +230,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 最後也會用跟以往不太一樣的模式，做出一個簡單的 todo list。
 
-[HW10 作業連結](/homeworks/week10)
+[HW10 作業連結](http://www.lmybs112.ml/homeworks%20/week10/)
 
 #### 目標：
 
@@ -254,7 +245,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 這一週正式進入後端框架的領域，會帶大家上最基礎的 Express，熟悉後端框架的各個元素。
 
-[HW11 作業連結](/homeworks/week11)
+[HW11 作業連結](http://www.lmybs112.ml/homeworks%20/week11/)
 
 #### 目標：
 
@@ -270,7 +261,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 延伸閱讀：[React 性能優化大挑戰：一次理解 Immutable data 跟 shouldComponentUpdate](https://blog.techbridge.cc/2018/01/05/react-render-optimization/)
 
-[HW12 作業連結](/homeworks/week12)
+[HW12 作業連結](http://www.lmybs112.ml/homeworks%20/week12/)
 
 #### 目標：
 
@@ -305,7 +296,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 接續之前的課程，這一週會讓你的 Web App 變得更加完整，會導入一個新的東西：Redux，說明我們為什麼需要它，以及如何利用它與 redux-promise 來解決非同步的一些問題。
 
-[HW14 作業連結](/homeworks/week14)
+[HW14 作業連結](http://www.lmybs112.ml/homeworks%20/week14/)
 
 #### 目標：
 
@@ -320,7 +311,7 @@ HTML 的部分就簡單帶過幾個常見的 tag，帶到 head 的一些屬性�
 
 在教完之後，會讓大家把之前的留言板從純 PHP 用 CodeIgnier 這套框架改寫，就可以比較一下兩者之間有哪裡不一樣。
 
-[HW15 作業連結](/homeworks/week15)
+[HW15 作業連結](http://www.lmybs112.ml/homeworks%20/week15/)
 
 #### 目標：
 
