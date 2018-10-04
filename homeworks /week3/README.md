@@ -1,4 +1,4 @@
-# week3 作業
+# 作業
 
 ## hw1：切版
 
@@ -39,4 +39,3 @@
 2. 請問什麼是盒模型（box modal）
 3. 請問 display: inline, block 跟 inline-block 的差別是什麼？
 4. 請問 position: static, relative, absolute 跟 fixed 的差別是什麼？
-
