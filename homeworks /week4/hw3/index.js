@@ -1,27 +1,41 @@
 (($) => {
+  let nowIndex = 0
+  let isLoading = false
   let getData = (callback) => {
     let clientId = 'g52o5obmxfx9fjsr6w33tfepar7vc5'
     let game = "League%20of%20Legends"
     let limit = 20
+    isLoading = true
     $.ajax({
-      url: `https://api.twitch.tv/kraken/streams/?game=${game}&limit=${limit}&client_id=${clientId}`,
+      url: `https://api.twitch.tv/kraken/streams/?game=${game}&limit=${limit}&offset=${nowIndex}&client_id=${clientId}`,
       success: (response) => {
-        console.log(response)
         callback(null, response)
       }
     })
   }
-
-  getData((err, data) => {
-    const {
-      streams
-    } = data;
-    const $content = $('.twitch__content')
-    for (let stream of streams) {
-      $content.append(getCard(stream))
+  let appendData = () => {
+    getData((err, data) => {
+      const {
+        streams
+      } = data;
+      const $content = $('.twitch__content')
+      for (let stream of streams) {
+        $content.append(getCard(stream))
+      }
+      nowIndex += 10
+      isLoading = false
+    })
+  }
+  $(document).ready(function () {
+    appendData()
+  })
+  $(window).scroll(function () {
+    if ($(window).scrollTop() + $(window).height() >= $(document).height() - 300) {
+      if (!isLoading) {
+        appendData()
+      }
     }
   })
-
   let getCard = (data) => {
     return `
       <div class="twitch__content__card" onclick="location.href='${data.channel.url}'">
