@@ -1,5 +1,5 @@
 # 作業
-
+![Alt Text](https://media.giphy.com/media/7vAeuQv6ENfENVddG0/giphy.gif)
 ## hw1：加強留言板
 
 在上次的作業中，只有顯示留言而已。
